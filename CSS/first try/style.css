@@ -1,0 +1,59 @@
+.first{
+    margin: 20px;
+}
+
+
+.row{
+    background: rgb(207, 201, 201);
+    border-radius: 10px;
+    width: 350px;
+    margin: 10px;
+    padding: 20px;}
+
+
+.last {
+    background-color: blue;
+    margin-left: 10px;
+    height: 30px;
+    width: 390px;
+    margin-top: 30px;
+}
+button {
+    background-color:blue;
+    height: 25px;
+}
+.promo{
+    margin-left: 10px;
+ 
+}
+input[type="text"]{
+    width: 330px;
+    height: 20px;
+}
+ div span{
+    margin-top: -20px;
+    font-weight: 10;
+    display: flex;
+    justify-content:center;
+    margin-left: 250px;
+ 
+   
+   
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  

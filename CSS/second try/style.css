@@ -1,0 +1,44 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Raleway', sans-serif;
+}
+body{
+    padding: 10px 0px 10px 30px;  
+ 
+}
+.container{
+    background-color:#F1F5F9;
+    height: 250px;
+    width:500px;
+    border-radius: 10px;
+    margin-top: 15px;
+}
+i{
+    padding: 4px 10px;
+    font-size: x-large;
+}
+.top{
+    padding: 8px;
+}
+.first{
+    margin-top: 10px;
+}
+
+.hcontainer{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between; 
+}
+.hcontainer span{
+    float: right;
+    font-weight: 100;
+    
+}
+.bot{
+    margin-top: 20px;
+    padding: 10px;
+    background-color: rgb(232, 232, 242);
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
